@@ -1,5 +1,4 @@
 # reinventing-browser
-implement browser for fun and profit
 
 [맨땅에 헤딩⚽ : 스터디 모집 공고]
 
